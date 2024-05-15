@@ -7,7 +7,7 @@ This project implements a basic login authentication system. It is designed to d
 - User registration
 - User login
 - Password encryption
-- Session management
+- Session management,
 - 
 ## Usage
 Access the web application at `http://localhost:3000` and register a new user or login with existing credentials.
