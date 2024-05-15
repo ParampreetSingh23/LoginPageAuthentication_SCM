@@ -8,8 +8,7 @@ This project implements a basic login authentication system. It is designed to d
 - User login
 - Password encryption
 - Session management
-- ## Setup and Installation
-1. Clone the repository:
+- 
 ## Usage
 Access the web application at `http://localhost:3000` and register a new user or login with existing credentials.
 
